@@ -13,4 +13,4 @@ Next Word Prediction is a fun and useful task in natural language processing. It
 - **Make Predictions:** Use the trained model to predict the next word.
 
 ## Want More?
-Check out the full article on Medium [here]([https://example.com](https://medium.com/@CrazyForCode/next-word-prediction-model-with-python-and-deep-learning-de04daf31950)) for a detailed explanation!
+Check out the full article on Medium [here](https://medium.com/@CrazyForCode/next-word-prediction-model-with-python-and-deep-learning-de04daf31950) for a detailed explanation!
