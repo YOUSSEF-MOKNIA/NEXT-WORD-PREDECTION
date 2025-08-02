@@ -1,5 +1,4 @@
 # Next Word Prediction using LSTMs
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/YOUSSEF-MOKNIA/NEXT-WORD-PREDECTION)
 
 This repository contains a deep learning project that builds and trains a model to predict the next word in a sequence of text. The model uses a Long Short-Term Memory (LSTM) network, a type of Recurrent Neural Network (RNN), implemented with TensorFlow and Keras.
 
